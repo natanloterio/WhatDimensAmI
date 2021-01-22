@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3609667702",
+    "project_id": "whatdimensami",
+    "storage_bucket": "whatdimensami.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3609667702:android:6e2de7e57ea6fb8e919757",
+        "android_client_info": {
+          "package_name": "me.loterio.whatdimensami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3609667702-vfob0sn5fpnm5kv5tqm3srjedut2hjmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCePW44ao4oXlrsavwWuHxolfwmMKjfnNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3609667702-vfob0sn5fpnm5kv5tqm3srjedut2hjmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
